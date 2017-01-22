@@ -1,0 +1,6 @@
+#
+# system.prop for f103
+#
+ro.ctr.crypto.passwd="default_password"
+ro.ctr.forbid_format=/frp,/persistent,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
+ro.ctr.forbid_mount=/frp,/persistent,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
